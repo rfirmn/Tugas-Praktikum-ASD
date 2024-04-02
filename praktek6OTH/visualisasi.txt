@@ -1,0 +1,37 @@
+visualisasi jika inputan sesuai di soal:
+
+Tumpukan A:  4  5  2  1  1
+Tumpukan B:  3  1  1  2
+
+Iterasi 1:
+   Tumpukan A:  4  5  2  1  1
+   Tumpukan B:  3  1  1  2
+   maxSum = 11
+   Jumlah elemen dari tumpukan A yang dapat diambil: 3 (4, 5, 2)
+   Jumlah elemen dari tumpukan B yang dapat diambil: 2 (3, 1)
+   Jumlah total elemen yang dapat diambil: 5
+
+Iterasi 2:
+   Tumpukan A:  4  5  2  1  1
+   Tumpukan B:  3  1  1  2
+   maxSum = 11
+   Jumlah elemen dari tumpukan A yang dapat diambil: 3 (4, 5, 2)
+   Jumlah elemen dari tumpukan B yang dapat diambil: 3 (3, 1, 1)
+   Jumlah total elemen yang dapat diambil: 6
+
+Iterasi 3:
+   Tumpukan A:  4  5  2  1  1
+   Tumpukan B:  3  1  1  2
+   maxSum = 11
+   Jumlah elemen dari tumpukan A yang dapat diambil: 3 (4, 5, 2)
+   Jumlah elemen dari tumpukan B yang dapat diambil: 3 (3, 1, 1)
+   Jumlah total elemen yang dapat diambil: 6
+
+Iterasi 4:
+   Tumpukan A:  4  5  2  1  1
+   Tumpukan B:  3  1  1  2
+   maxSum = 11
+   Jumlah elemen dari tumpukan A yang dapat diambil: 3 (4, 5, 2)
+   Jumlah elemen dari tumpukan B yang dapat diambil: 4 (3, 1, 1, 2)
+   Jumlah total elemen yang dapat diambil: 7
+
